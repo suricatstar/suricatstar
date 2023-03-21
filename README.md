@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ### Olá eu sou o Cauê Fialho 😎
+## Sou estudante de Ciência da Computação 3/8
 
 <div style="display: inline-block"><br/>
  <a href="https://codepen.io/suricatstar" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
