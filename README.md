@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Olá eu sou o Cauê Fialho 😎
+### Olá eu sou o Cauê Tamiarana 😎
 #### Sou estudante de Ciência da Computação 3/8 💻
 
 <div style="display: inline-block"><br/>
