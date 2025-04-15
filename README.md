@@ -12,6 +12,8 @@
 ![Cauê's GitHub stats](https://github-readme-stats.vercel.app/api?username=suricatstar&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suricatstar&hide_progress=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suricatstar&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Tecnologias que já tive ou tenho contato:
  <div style="display: inline-block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
