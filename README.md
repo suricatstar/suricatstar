@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=500&size=30&duration=4000&pause=1000&color=7AA2F7&center=true&width=440&lines=hi+there+%F0%9F%91%8B;my+name+is+Cau%C3%AA+%F0%9F%98%8E)](https://git.io/typing-svg)
 
-#### Sou estudante de Ciência da Computação 7/8 💻
+#### Sou estudante de Ciência da Computação 8/8 💻
 
 <div style="display: inline-block"><br/>
  <a href="https://codepen.io/suricatstar" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
